@@ -1,4 +1,4 @@
-module github.com/qianjunakasumi/fjtuanjian-sm4ecb-go
+module git.qianjunakasumi.ren/fjtuanjian-abis
 
 go 1.17
 

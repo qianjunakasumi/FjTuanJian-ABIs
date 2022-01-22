@@ -1,6 +1,4 @@
-# FjTuanJian-SM4ECB-Go
-
-福建数字化共青团 · 智慧团建之国密 SM4 ECB 模式 ABI - Go
+# 福建数字化共青团 · 智慧团建之应用二进制接口
 
 ## 编译
 
@@ -8,3 +6,7 @@
 例如： `$AndroidHOME\Sdk\ndk\23.1.7779620\toolchains\llvm\prebuilt\windows-x86_64\bin\`
 
 默认情况下编译 android31 aarch64 ABI，您可编辑 `build.ps1` 手动修改。
+
+## 许可证
+
+[![GitHub license](https://img.shields.io/github/license/qianjunakasumi/FjTuanJian-ABIs?style=for-the-badge)](https://github.com/qianjunakasumi/FjTuanJian-ABIs/blob/main/LICENSE)
